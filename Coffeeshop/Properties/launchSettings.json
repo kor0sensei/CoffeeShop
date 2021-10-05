@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Coffeeshop": {
+    "CoffeeShop": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
